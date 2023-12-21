@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(46, 45, 45);
+}
+.inputse{
+    border: none;
+    border-color: white;
+    border-radius: 9px;
+    width: 780px;
+    margin-left: 29px;
+    height: 54px;
+}
+.searchcon{
+    color: rgb(131, 124, 124);
+    position: relative;
+    right: 780px;
+}
+.iconslist{
+    padding-left: 92px;
+    
+}
+.iconslist > * {
+    margin-right: 38px; /* Adjust the value based on your preference */
+}
